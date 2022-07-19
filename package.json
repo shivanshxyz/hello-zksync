@@ -1,0 +1,8 @@
+{
+  "name": "hello-zksync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shivanshxyz/hello-zksync.git",
+  "author": "Shivansh Yadav <shivanshyadav00@gmail.com>",
+  "license": "MIT"
+}
